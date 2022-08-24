@@ -1,0 +1,8 @@
+E:\Aug23\P7\bin\Debug\P7.exe.config
+E:\Aug23\P7\bin\Debug\P7.exe
+E:\Aug23\P7\bin\Debug\P7.pdb
+E:\Aug23\P7\obj\Debug\P7.csproj.AssemblyReference.cache
+E:\Aug23\P7\obj\Debug\P7.csproj.SuggestedBindingRedirects.cache
+E:\Aug23\P7\obj\Debug\P7.csproj.CoreCompileInputs.cache
+E:\Aug23\P7\obj\Debug\P7.exe
+E:\Aug23\P7\obj\Debug\P7.pdb

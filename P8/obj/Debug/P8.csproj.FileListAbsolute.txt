@@ -1,0 +1,8 @@
+E:\Aug23\P8\bin\Debug\P8.exe.config
+E:\Aug23\P8\bin\Debug\P8.exe
+E:\Aug23\P8\bin\Debug\P8.pdb
+E:\Aug23\P8\obj\Debug\P8.csproj.AssemblyReference.cache
+E:\Aug23\P8\obj\Debug\P8.csproj.SuggestedBindingRedirects.cache
+E:\Aug23\P8\obj\Debug\P8.csproj.CoreCompileInputs.cache
+E:\Aug23\P8\obj\Debug\P8.exe
+E:\Aug23\P8\obj\Debug\P8.pdb
