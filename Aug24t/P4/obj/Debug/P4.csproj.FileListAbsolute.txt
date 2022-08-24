@@ -1,0 +1,8 @@
+E:\Aug24\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+E:\Aug24\P4\obj\Debug\P4.csproj.SuggestedBindingRedirects.cache
+E:\Aug24\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+E:\Aug24\P4\bin\Debug\P4.exe.config
+E:\Aug24\P4\bin\Debug\P4.exe
+E:\Aug24\P4\bin\Debug\P4.pdb
+E:\Aug24\P4\obj\Debug\P4.exe
+E:\Aug24\P4\obj\Debug\P4.pdb

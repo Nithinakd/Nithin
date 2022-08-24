@@ -1,0 +1,8 @@
+E:\Aug24\P2\bin\Debug\P2.exe.config
+E:\Aug24\P2\bin\Debug\P2.exe
+E:\Aug24\P2\bin\Debug\P2.pdb
+E:\Aug24\P2\obj\Debug\P2.csproj.AssemblyReference.cache
+E:\Aug24\P2\obj\Debug\P2.csproj.SuggestedBindingRedirects.cache
+E:\Aug24\P2\obj\Debug\P2.csproj.CoreCompileInputs.cache
+E:\Aug24\P2\obj\Debug\P2.exe
+E:\Aug24\P2\obj\Debug\P2.pdb
