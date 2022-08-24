@@ -1,0 +1,8 @@
+E:\Aug23\PS1\bin\Debug\PS1.exe.config
+E:\Aug23\PS1\bin\Debug\PS1.exe
+E:\Aug23\PS1\bin\Debug\PS1.pdb
+E:\Aug23\PS1\obj\Debug\PS1.csproj.AssemblyReference.cache
+E:\Aug23\PS1\obj\Debug\PS1.csproj.SuggestedBindingRedirects.cache
+E:\Aug23\PS1\obj\Debug\PS1.csproj.CoreCompileInputs.cache
+E:\Aug23\PS1\obj\Debug\PS1.exe
+E:\Aug23\PS1\obj\Debug\PS1.pdb
