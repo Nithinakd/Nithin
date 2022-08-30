@@ -1,3 +1,0 @@
-E:\Aug26\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
-E:\Aug26\Practice\obj\Debug\Practice.csproj.SuggestedBindingRedirects.cache
-E:\Aug26\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
