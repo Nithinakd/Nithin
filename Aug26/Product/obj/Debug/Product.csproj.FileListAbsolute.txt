@@ -1,0 +1,6 @@
+E:\Aug26\Product\bin\Debug\Product.pdb
+E:\Aug26\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+E:\Aug26\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+E:\Aug26\Product\obj\Debug\Product.dll
+E:\Aug26\Product\obj\Debug\Product.pdb
+E:\Aug26\Product\obj\Debug\Product.csproj.CopyComplete

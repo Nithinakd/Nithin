@@ -1,0 +1,6 @@
+E:\Aug26\HRLibrary\bin\Debug\HRLibrary.pdb
+E:\Aug26\HRLibrary\obj\Debug\HRLibrary.csproj.AssemblyReference.cache
+E:\Aug26\HRLibrary\obj\Debug\HRLibrary.csproj.CoreCompileInputs.cache
+E:\Aug26\HRLibrary\obj\Debug\HRLibrary.dll
+E:\Aug26\HRLibrary\obj\Debug\HRLibrary.pdb
+E:\Aug26\HRLibrary\obj\Debug\HRLibrary.csproj.CopyComplete

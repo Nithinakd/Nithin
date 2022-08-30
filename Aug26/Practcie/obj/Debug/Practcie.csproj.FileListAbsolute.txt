@@ -1,0 +1,11 @@
+E:\Aug26\Practcie\obj\Debug\Practcie.csproj.AssemblyReference.cache
+E:\Aug26\Practcie\obj\Debug\Practcie.csproj.SuggestedBindingRedirects.cache
+E:\Aug26\Practcie\obj\Debug\Practcie.csproj.CoreCompileInputs.cache
+E:\Aug26\Practcie\bin\Debug\Practcie.exe.config
+E:\Aug26\Practcie\bin\Debug\Practcie.exe
+E:\Aug26\Practcie\bin\Debug\Practcie.pdb
+E:\Aug26\Practcie\bin\Debug\HRLibrary.dll
+E:\Aug26\Practcie\bin\Debug\HRLibrary.pdb
+E:\Aug26\Practcie\obj\Debug\Practcie.csproj.CopyComplete
+E:\Aug26\Practcie\obj\Debug\Practcie.exe
+E:\Aug26\Practcie\obj\Debug\Practcie.pdb
