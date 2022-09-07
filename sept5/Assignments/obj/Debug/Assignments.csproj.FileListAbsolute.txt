@@ -1,0 +1,11 @@
+E:\sept5\Assignments\bin\Debug\Assignments.exe.config
+E:\sept5\Assignments\bin\Debug\Assignments.exe
+E:\sept5\Assignments\bin\Debug\Assignments.pdb
+E:\sept5\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+E:\sept5\Assignments\obj\Debug\Assignments.csproj.SuggestedBindingRedirects.cache
+E:\sept5\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+E:\sept5\Assignments\obj\Debug\Assignments.exe
+E:\sept5\Assignments\obj\Debug\Assignments.pdb
+E:\sept5\Assignments\bin\Debug\ClassLibrary1.dll
+E:\sept5\Assignments\bin\Debug\ClassLibrary1.pdb
+E:\sept5\Assignments\obj\Debug\Assignments.csproj.CopyComplete
