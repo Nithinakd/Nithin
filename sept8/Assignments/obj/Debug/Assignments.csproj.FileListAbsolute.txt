@@ -1,0 +1,8 @@
+E:\sept8\Assignments\bin\Debug\Assignments.exe.config
+E:\sept8\Assignments\bin\Debug\Assignments.exe
+E:\sept8\Assignments\bin\Debug\Assignments.pdb
+E:\sept8\Assignments\obj\Debug\Assignments.csproj.AssemblyReference.cache
+E:\sept8\Assignments\obj\Debug\Assignments.csproj.SuggestedBindingRedirects.cache
+E:\sept8\Assignments\obj\Debug\Assignments.csproj.CoreCompileInputs.cache
+E:\sept8\Assignments\obj\Debug\Assignments.exe
+E:\sept8\Assignments\obj\Debug\Assignments.pdb
